@@ -1,6 +1,7 @@
 # Twitter Data Sentiment Analysis Dashboard
 
 This project implements a sentiment analysis dashboard for Twitter data. It allows users to analyze the sentiment of tweets based on specific search queries.
+[img1](https://github.com/tushargangera/Twitter-Data-Sentiment-Analysis-Dashboard/assets/74228915/dabb1286-e273-454b-9e15-a57958fdc6ca)
 
 ## Installation
 
@@ -39,7 +40,8 @@ python main.py
 └── ... (other project files and directories)
 ```
 
-## Configuration
+## Configuration!
+
 
 The `config.ini` file contains Twitter API keys and access tokens. Make sure to fill in your own credentials before running the application.
 
@@ -47,6 +49,7 @@ The `config.ini` file contains Twitter API keys and access tokens. Make sure to 
 
 - [Dash](https://dash.plotly.com/): Python framework for building analytical web applications.
 - [Tweepy](https://www.tweepy.org/): Python library for accessing the Twitter API.
+- ![Twitter_Sentiment_Analysis_Dashboard](https://github.com/Mazen72/Twitter_Sentiment_Analysis_Dashboard/blob/master/img1.jpg)
 
 
 Adjust the content according to your project's specifics and add any additional sections as needed. Make sure to replace placeholder URLs, usernames, and file names with actual values.
