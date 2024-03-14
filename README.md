@@ -1,7 +1,7 @@
 # Twitter Data Sentiment Analysis Dashboard
 
 This project implements a sentiment analysis dashboard for Twitter data. It allows users to analyze the sentiment of tweets based on specific search queries.
-[img1](https://github.com/tushargangera/Twitter-Data-Sentiment-Analysis-Dashboard/assets/74228915/dabb1286-e273-454b-9e15-a57958fdc6ca)
+[Dashboard](https://github.com/tushargangera/Twitter-Data-Sentiment-Analysis-Dashboard/assets/74228915/dabb1286-e273-454b-9e15-a57958fdc6ca)
 
 ## Installation
 
